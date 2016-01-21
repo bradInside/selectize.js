@@ -1,0 +1,22 @@
+
+{
+    "name": "bradInside/selectize.js",
+    "description": "konami code detection",
+    "homepage": "https://github.com/selectize/selectize.js",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "selectize",
+            "homepage": "https://github.com/selectize/selectize.js"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "OAuth": "src/"
+        }
+    }
+}
